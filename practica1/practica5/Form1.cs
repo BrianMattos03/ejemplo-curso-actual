@@ -17,6 +17,7 @@ namespace practica5
     {
         public DatosPersonales()
         {
+            //Agregamos un comentario
             InitializeComponent();
         }
 
